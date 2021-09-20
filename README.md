@@ -1,4 +1,4 @@
-# Python Projects: BIM Calculator 🐍
+# Python Projects: BMI Calculator 🐍
 This repo contains python code that calculates your BMI.<br>
 Run the code.
 
